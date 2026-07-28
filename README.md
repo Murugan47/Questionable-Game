@@ -2,7 +2,7 @@
 
 **Questionable** is a real-time, AI-powered multiplayer guessing game where players face off against **JOD THE ALMIGHTY**—an all-knowing, cryptic AI entity powered by Llama 3.1. 
 
-Players take turns submitting questions to uncover JOD's secret target word before running out of questions. Will you decipher JOD’s cryptic hints, or will JOD be disappointed in your efforts?
+Players take turns submitting questions to uncover the secret target word before running out of questions. Will you decipher JOD’s cryptic hints, or will he be disappointed in your efforts?
 
 ---
 
