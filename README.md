@@ -4,6 +4,7 @@
 
 Players take turns submitting questions to uncover the secret target word before running out of questions. Will you decipher JOD’s cryptic hints, or will he be disappointed in your efforts?
 
+[![Play Game](https://img.shields.io/badge/PLAY_GAME-Vercel-3b82f6?style=for-the-badge&logo=vercel&logoColor=white)](https://question-able.vercel.app)
 ---
 
 ## 🚀 Tech Stack & Architecture
